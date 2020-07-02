@@ -1,0 +1,28 @@
+.logo {
+	width: 250px;
+	margin-left: 5px;
+}
+
+footer p{
+	font-size: 12px;
+}
+
+footer {
+	padding-top: 30px;
+	background-color: #3b5998;
+}
+
+.social {
+	width: 25px;
+	height: 25px;
+	align-content: right;
+}
+
+.tambahan {
+	width: 25%;
+	float: left;
+}
+
+p {
+	text-align: center;
+}
