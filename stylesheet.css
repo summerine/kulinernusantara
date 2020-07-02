@@ -1,0 +1,17 @@
+body {
+    font-family: "Avenir Next";
+}
+
+.main1 {
+    padding: 100px 120px;
+}
+
+.main1 h1{
+    font-size: 50px;
+
+}
+
+.main1 h2 {
+    font-size: 30px;
+    text-align: center;
+}
