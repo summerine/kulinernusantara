@@ -43,3 +43,82 @@ footer {
 p {
 	text-align: center;
 }
+
+
+/* main-tambahan */
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
+}
+.main2 {
+  border-bottom: inset;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading-lesson-main2 h2 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-img {
+  padding: 10px;
+  margin: 0 15px;
+  box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+}
+
+.lesson-img p {
+  font-size: 20px;
+  color: black
+}
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+.heading-message-main2 h2 {
+  font-weight: normal;
+}
+
+.heading-message-main2 h2 {
+  font-size: 20px;
+  padding: 20;
+}
+
+.message-main2 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+@media (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+@media (max-width: 676px) {
+  .lesson {
+    width: 100%;
+  }
+  .heading-message-main2 p {
+    text-align: left;
+  }
+}
