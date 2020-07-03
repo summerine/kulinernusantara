@@ -23,12 +23,6 @@ body {
     text-align: center;
 }
 
-
-.gantiwarna:hover,
-a.ex1:active {
-  color: red;
-}
-
 .main1:hover,
 a.ex1:active {
   color: red;
@@ -64,9 +58,10 @@ footer .social {
 	float: left;
 }
 
-p {
+footer p {
 
-	text-align: center;
+  text-align: center;
+  font-size: 15px;
 }
 
 

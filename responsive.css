@@ -5,7 +5,12 @@
 		text-align: center;
 		overflow: auto;
 	}
-	
+  
+  .main1:hover,
+a.ex1:active {
+  color: blue;
+}
+  
 	.lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -18,6 +23,9 @@
   }
 
 
+
+
+
 }
 
 @media all and (max-width: 676px) {
@@ -27,7 +35,12 @@
 		width: 100%;
 		text-align: center;
 		overflow: auto;
-	}
+  }
+  
+  .main1:hover,
+a.ex1:active {
+  color: green;
+}
 	
 	.lesson {
     width: 100%;
@@ -49,4 +62,6 @@
   .menu-icon {
     display: block;
   }
+
+
 }
