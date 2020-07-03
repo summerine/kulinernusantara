@@ -23,6 +23,17 @@ body {
     text-align: center;
 }
 
+
+.gantiwarna:hover,
+a.ex1:active {
+  color: red;
+}
+
+.main1:hover,
+a.ex1:active {
+  color: red;
+}
+
 .logo {
 	width: 250px;
 	margin-left: 5px;
