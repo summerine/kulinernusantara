@@ -92,6 +92,22 @@ a {
 .lesson {
   float: left;
   width: 25%;
+  padding-bottom: 80px;
+  text-align: center;
+  
+}
+
+.animasi-main2 {
+  padding: 12px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+  color: white;
+}
+.animasi-main2:active {
+  box-shadow: none;
+  position: relative;
+  top: 7px;
 }
 
 .lesson-img {
